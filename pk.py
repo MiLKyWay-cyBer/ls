@@ -13,7 +13,7 @@ TOKEN = "7855801186:AAHTQQTYcMgIYaRGkcB6hkfBTpz_wxXTTEI"
 ADMIN_ID = 6882674372  # Replace with your actual admin Telegram ID
 
 # Attack Variables
-BINARY_PATH = "./bgmi"  # Path to attack binary
+BINARY_PATH = "./soulcracks"  # Path to attack binary
 process = None
 target_ip = None
 target_port = None
@@ -22,8 +22,8 @@ target_port = None
 valid_keys = set()  # Store generated keys
 user_access = {}  # Users with expiration time
 cooldown = 5  # Default cooldown
-threads = 1800  # Default threads
-packets = 15  # Default packets
+threads =   # Default threads
+packets =   # Default packets
 credit_text = "WELCOME TO APNA BHAI BOT"  # Default credit message
 
 # Generate a random key
