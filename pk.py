@@ -22,8 +22,6 @@ target_port = None
 valid_keys = set()  # Store generated keys
 user_access = {}  # Users with expiration time
 cooldown = 5  # Default cooldown
-threads =   # Default threads
-packets =   # Default packets
 credit_text = "WELCOME TO APNA BHAI BOT"  # Default credit message
 
 # Generate a random key
